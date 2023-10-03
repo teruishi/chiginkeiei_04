@@ -1,0 +1,10 @@
+[credential]
+	helper = !aws codecommit credential-helper $@
+	UseHttpPath = true
+[core]
+	editor = nano
+[user]
+	name = teruishi
+	email = teru.ishida@iCloud.com
+[init]
+	defaultBranch = main
